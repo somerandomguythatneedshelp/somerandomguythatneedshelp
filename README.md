@@ -1,5 +1,9 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/195961770353885184)](https://discord.com/users/195961770353885184)
+Hi, I'm a young programmer that codes minecraft plugins,
+<br>
+I used to code websites but i made my way to spigot.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=bghddevelopment&show_icons=true&hide_border=true&theme=dark)
+This is where i just create repos for this and Moonsworkshop LLC (my company) account
 
-![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=InventivetalentDev&theme=dark&layout=compact&langs_count=6)
+![Stats](https://github-readme-stats.vercel.app/api?username=somerandomguythatneedshelp&show_icons=true&hide_border=true&theme=dark)
+
+![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=somerandomguythatneedshelp&theme=dark&layout=compact&langs_count=1)
