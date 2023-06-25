@@ -1,8 +1,8 @@
-Hi, I'm a young programmer that codes minecraft plugins,
+Hi, I'm a young programmer that codes minecraft plugins and minecraft clients for 1.8,
 <br>
-I used to code websites but i made my way to spigot.
+I used to code websites but i made my way to spigot then mcp.
 
-This is where i just create repos for this and Moonsworkshop LLC (my company) account
+This is where i just create repos for this and Quiap LLC (my company) account
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=somerandomguythatneedshelp&show_icons=true&hide_border=true&theme=dark)
 
