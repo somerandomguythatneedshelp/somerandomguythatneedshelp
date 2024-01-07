@@ -9,4 +9,4 @@ This is where i just create repos for this and Quiap LLC (my company) account
 ![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=somerandomguythatneedshelp&theme=dark&layout=compact&langs_count=1)
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,python,html,css,csharp,bash,xml,json,yaml,mysql,powershell,visualbasic,groovy,sass,markdown)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,python,html,css,csharp,bash,xml,json,yaml,mysql,powershell,visualbasic,groovy,sass,markdown&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
