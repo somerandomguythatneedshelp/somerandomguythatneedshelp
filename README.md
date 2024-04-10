@@ -10,3 +10,5 @@ This is where i just create repos for this and Quiap LLC (my company) account
 
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,python,html,css,csharp,bash,xml,json,yaml,mysql,powershell,sass&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+
+[![](https://visitcount.itsvg.in/api?id=somerandomguythatneedshelp&label=Profile%20Views&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
