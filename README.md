@@ -4,9 +4,8 @@ I used to code websites (if im feeling it) but i made my way to spigot then mcp 
 
 This is where i just create repos for this
 
-![Stats](https://github-readme-stats.vercel.app/api?username=somerandomguythatneedshelp&show_icons=true&hide_border=true&theme=dark)
-
-![Stats2](https://github-readme-stats.vercel.app/api/top-langs/?username=somerandomguythatneedshelp&theme=dark&layout=compact&langs_count=1)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=somerandomguythatneedshelp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,java,python,html,css,csharp,bash,xml,json,yaml,mysql,powershell,sass&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
