@@ -14,7 +14,7 @@ This is where i just create repos for this
 
 <td valign="top" width="33%">
 
-### Apps, DevOps & Engines  
+
 <div align="center">  
 <a href="https://visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio" height="50" /></a>  
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="50" /></a>  
@@ -28,6 +28,8 @@ This is where i just create repos for this
 </div>
 
 </td></tr></table>  
+
+<br>
 
 <div align="center">  
 
