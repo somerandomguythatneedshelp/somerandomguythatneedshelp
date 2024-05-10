@@ -18,7 +18,4 @@ This is where i just create repos for this
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="Github" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>  
 <a href="https://unity.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=unity" alt="Unity" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="50" /></a>  
-<a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vercel" alt="Vercel" height="50" /></a>  
-<a href="https://Cloudflare.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" height="50" /></a> 
 </div>
