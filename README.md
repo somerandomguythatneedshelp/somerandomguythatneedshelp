@@ -27,13 +27,16 @@
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=react" alt="React" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="50" /></a>  
 <a href="https://www.w3schools.com/cs/index.php" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=cs" alt="C#" height="50" /></a>  
-<a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=swift" alt="swift" height="50" /></a>   
+<a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=swift" alt="Swift" height="50" /></a>   
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=python" alt="Python" height="50" /></a>  
 <a href="https://electronjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=electron" alt="electron.js" height="50" /></a> 
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=html" alt="HTML5" height="50" /></a> 
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=css" alt="CSS3" height="50" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=java" alt="Java" height="50" /></a>  
+<a href="https://www.gradle.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=gradle" alt="Gradle" height="50" /></a>  
+<a href="https://mvnrepository.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=maven" alt="Maven" height="50" /></a>  
 </div>
 </div>
 
