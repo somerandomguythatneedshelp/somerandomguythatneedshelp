@@ -7,11 +7,15 @@ This is where i just create repos for this
 # 📊 GitHub Stats:
 
 <div align="center">
- ![](https://github-readme-stats.vercel.app/api?username=somerandomguythatneedshelp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+ 
+![](https://github-readme-stats.vercel.app/api?username=somerandomguythatneedshelp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=somerandomguythatneedshelp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=somerandomguythatneedshelp&label=Profile%20Views&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
+
+
 </div>
 
 <div align="center">  
