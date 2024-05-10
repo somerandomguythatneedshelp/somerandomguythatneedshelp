@@ -1,4 +1,4 @@
-<h3 align="center"> Hi, I'm Taha - aka milkinabag</a> 👋 </h3>
+<h3 align="center"> Hi, I'm somerandomguythatneedshelp - aka milkinabag</a> 👋 </h3>
 
 🌴Future Goals: Finish personal projects and learn to be a full game developer
 
