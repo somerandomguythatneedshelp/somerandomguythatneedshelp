@@ -29,7 +29,6 @@ This is where i just create repos for this
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>  
 <a href="https://unity.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=unity" alt="Unity" height="50" /></a>  
 
-  <br>
   
   
 <a href="https://github.com/somerandomguythatneedshelp"><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&author=milkinabag&quote=Last%20Time%20I%20Let%20Someone%20Cook%20They%20Burned%20The%20House" /></a>
