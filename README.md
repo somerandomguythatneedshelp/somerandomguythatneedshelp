@@ -5,13 +5,20 @@ I used to code websites (if im feeling it) but i made my way to spigot then mcp 
 This is where i just create repos for this
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=somerandomguythatneedshelp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+
+<div align="center">  
+
+  ![](https://github-readme-stats.vercel.app/api?username=somerandomguythatneedshelp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=somerandomguythatneedshelp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=somerandomguythatneedshelp&label=Profile%20Views&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
-<div align="center">  
+<br>
+<br>
+<br>
+
 <a href="https://visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio" height="50" /></a>  
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="50" /></a>  
 <a href="https://www.unrealengine.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=unreal" alt="Unreal Engine" height="50" /></a>  <a href="https://blender.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=blender" alt="Blender" height="50" /></a>  
