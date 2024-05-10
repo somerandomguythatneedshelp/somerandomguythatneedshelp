@@ -1,8 +1,5 @@
 <h3 align="center"> Hi, I'm somerandomguythatneedshelp - aka milkinabag</a> 👋 </h3>
 
-<!-- <h2 align="center"> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=2500&pause=10000&color=f497ce&vCenter=true&width=725&lines=A+21+years+old+Full-Stack+Developer+and+Designer" alt="Typing SVG" /></a>
-</h2> -->
 🌴Future Goals: Finish personal projects and learn to be a full game developer
 
 # 📊 GitHub Stats:
