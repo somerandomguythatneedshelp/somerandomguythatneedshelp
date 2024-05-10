@@ -1,6 +1,10 @@
 <h3 align="center"> Hi, I'm somerandomguythatneedshelp - aka milkinabag</a> 👋 </h3>
 
+🔭Currently working on making games and learning more C++ as i go
+
 🌴Future Goals: Finish personal projects and learn to be a full game developer
+
+🎨Try and get myself into more IOS or MacOS X app development 
 
 # 📊 GitHub Stats:
 
