@@ -37,6 +37,7 @@
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=java" alt="Java" height="50" /></a>  
 <a href="https://www.gradle.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=gradle" alt="Gradle" height="50" /></a>  
 <a href="https://mvnrepository.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=maven" alt="Maven" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="50" /></a>  
 </div>
 </div>
 
