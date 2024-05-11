@@ -37,7 +37,9 @@
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=java" alt="Java" height="50" /></a>  
 <a href="https://www.gradle.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=gradle" alt="Gradle" height="50" /></a>  
 <a href="https://mvnrepository.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=maven" alt="Maven" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="50" /></a> 
+<a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=npm" alt="NPM" height="50" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=ts" alt="ts" height="50" /></a>  
 </div>
 </div>
 
@@ -53,6 +55,9 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="Github" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>  
 <a href="https://unity.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=unity" alt="Unity" height="50" /></a>  
+<a href="https://www.jetbrains.com/idea/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=idea" alt="IntelijIdea" height="50" /></a>  
+<a href="https://stackoverflow.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverflow" height="50" /></a>
+<a href="https://windows" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=windows" alt="Windows" height="50" /></a> 
 </div>
 
 </td></tr></table>  
