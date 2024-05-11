@@ -62,34 +62,6 @@
 
 </td></tr></table>  
 
-
-<details close>
-<summary>🧮 Check Statistics</summary>
-<br>
-
-<div align="center">
-<a href="https://babyico.vercel.app/">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=babyico&theme=dark&show_icons=true&bg_color=DD272700&hide_border=true&custom_title=Laith%27s%20Stats&title_color=ac1d24&icon_color=FCD0DA&text_color=FFFFFF&count_private=true&include_all_commits=true&" />
-</a>
-
-<a>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=babyico&theme=dark&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&background=DD272700&ring=FCD0DA&stroke=ac1d24&fire=ac1d24&currStreakNum=FFFFFF&sideNums=ac1d24&currStreakLabel=ac1d24&sideLabels=FCD0DA&dates=FFFFFF"> </a>
-
-<a href="https://babyico.vercel.app/">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babyico&theme=dark&layout=compact&bg_color=DD272700&hide_border=true&custom_title=Laith%27s%20Most%20Used%20Languages&title_color=ac1d24&text_color=FAF9F6" />
-</a>
- 
-<a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iconical&theme=dark&bg_color=DD272700&hide_border=true&title_color=ac1d24&text_color=FAF9F6&icon_color=FAF9F6&line_height=20&custom_title=Laith%27s%20Time%20Spent%20on%20Coding&langs_count=6"></a>
-</div>
-<p align="center"> <a href="https://github.com/babyico"><img src="https://github-profile-trophy.vercel.app/?username=babyico&theme=oldie&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="babyico" /></a> </p>
-  
-  <div align="center">
-   <a href="https://leetcode.com/iconical/"><img src="https://leetcard.jacoblin.cool/iconical?theme=dark&font=Baloo%202&ext=heatmap"></a> 
-  </div>  
-  
-</details>
-
 <br>
 
 <div align="center">  
@@ -98,3 +70,15 @@
   
 <a href="https://github.com/somerandomguythatneedshelp"><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&author=milkinabag&quote=Last%20Time%20I%20Let%20Someone%20Cook%20They%20Burned%20The%20House" /></a>
 </div>
+
+<details close>
+<summary>🏚️ My coding jouney</summary>
+<br>
+
+<p>I started coding around 2 years ago with batch, I used to copy bad games and change them ever so slightly and I kept doing this until around 1 month later I started with web development and making my own websites using html and css (copied from W3Schools) and barley any Javascript, the only time i used my own code and didnt copy code was when i did the simplest thing ever <code>alert('Hello World')</code> It wasen't much but i was still happy, i kept doing this for around 4-5 months until i found a video of notch coding, i wanted to code java too so i downloaded Intellij Idea and started coding Java for the first time, i looked up some tutorials and by feburary 2021 i started a minecraft server, it wasen't much, just a 1.17 server with barley any plugins, so i decided to code a minigame, didnt really work so a couple of weeks later after i got the jist of Spigot plugin coding, i went ahead and made a rank system, it worked occasionally but it stil worked, i converted the server into 1.8 and changed all the plugins to work for 1.8 and it worked, everything was working on 1.8.9, so i figured, if i can make a minecraft server, surely i can make a client and so i did, i downaloded MCP and i replaced the minecraft sources with optifine sources, i still remember when it took me a week to get the minecraft source code working because i coulden't figure out how do change the dependinces but i got it working, by now i've been coding for about 15 months, i wanted to do something else so i made a game in unity called ultra golf 2D, it took me 1 week to make the game with the help of my friends and the very next day i published the game onto itch.io, i thought if unity was like this what about unreal engine, i tried unreal before but i stopped like 1 week into it because of its steep learning curve, i wanted to make a horror game so me and the same friends that helped me with Ultra golf 2d came up with an idea to make a horror game, I plan to make future games with unreal engine but i just want to get used to it for now</p>
+  
+</details>
+
+
+
+
