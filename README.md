@@ -53,6 +53,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="Github" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=git" alt="Git" height="50" /></a>  
 <a href="https://unity.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=unity" alt="Unity" height="50" /></a>  
+<a href="https://windows.com" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=Windows" alt="Windows" height="50" /></a>  
 </div>
 
 </td></tr></table>  
