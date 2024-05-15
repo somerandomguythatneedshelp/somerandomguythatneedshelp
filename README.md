@@ -10,7 +10,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=somerandomguythatneedshelp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=somerandomguythatneedshelp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=somerandomguythatneedshelp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=somerandomguythatneedshelp&langs_count=8)
 
 [![](https://visitcount.itsvg.in/api?id=somerandomguythatneedshelp&label=Profile%20Views&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
