@@ -6,6 +6,8 @@
 
 🎨Try and get myself into more IOS or MacOS X app development 
 
+🎮Making plugins for BakkesMod (some of the repos are on my profile :D) 
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=somerandomguythatneedshelp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
