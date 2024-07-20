@@ -41,6 +41,7 @@
 <a href="https://mvnrepository.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=maven" alt="Maven" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="50" /></a> 
 <a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=npm" alt="NPM" height="50" /></a>
+<a href="https://www.nextjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" height="50" /></a>
 
 </div>
 </div>
