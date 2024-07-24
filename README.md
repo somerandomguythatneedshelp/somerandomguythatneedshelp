@@ -10,11 +10,15 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=somerandomguythatneedshelp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+<div align="center">
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=somerandomguythatneedshelp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=somerandomguythatneedshelp&langs_count=8)
+![](https://github-readme-stats.vercel.app/api?username=somerandomguythatneedshelp&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff&include_all_commits=true&count_private=false)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=somerandomguythatneedshelp&layout=compact&bg_color=00000000&border_color=00000000&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
 [![](https://visitcount.itsvg.in/api?id=somerandomguythatneedshelp&label=Profile%20Views&color=12&icon=3&pretty=true)](https://visitcount.itsvg.in)
+
+</div>
 
 ### Personal Experience
 
