@@ -75,7 +75,7 @@
 
   
   
-<a href="https://github.com/somerandomguythatneedshelp"><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&author=milkinabag&quote=Last%20Time%20I%20Let%20Someone%20Cook%20They%20Burned%20The%20House" /></a>
+<a href="https://github.com/somerandomguythatneedshelp"><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&author=milkinabag&quote=Its%20Better%20To%20Make%20Mistakes%20Rather%20Than%20Corrections" /></a>
 </div>
 
 <details close>
