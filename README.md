@@ -75,7 +75,7 @@
 
   
   
-<a href="https://github.com/somerandomguythatneedshelp"><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&author=milkinabag&quote=Its%20Better%20To%20Make%20Mistakes%20Rather%20Than%20Corrections" /></a>
+<a href="https://github.com/somerandomguythatneedshelp"><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&author=milkinabag&quote=Hey%20Get%20Back%20To%20Coding%20Now" /></a>
 </div>
 
 <details close>
