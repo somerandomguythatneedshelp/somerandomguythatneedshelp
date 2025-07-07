@@ -2,7 +2,7 @@
 
 🔭Currently working on making games and learning more C++ as i go
 
-🌴Future Goals: Finish personal projects and learn to be a full game developer
+🌴Future Goals: Finish personal projects 
 
 🎨Try and get myself into more IOS or MacOS X app development 
 
@@ -46,7 +46,7 @@
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=firebase" alt="Firebase" height="50" /></a> 
 <a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=npm" alt="NPM" height="50" /></a>
 <a href="https://www.nextjs.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" height="50" /></a>
-
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=aws" alt="AWS" height="50" /></a>
 </div>
 </div>
 
